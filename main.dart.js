@@ -56128,7 +56128,7 @@ B.v_=new A.K2()
 B.v1=new A.qI(null,null,null,null,null,null,null)
 B.aQ=new A.eE(6)
 B.Ik=new A.m(!0,B.j,null,null,null,null,20,B.aQ,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.IU=new A.oR("know me, know me not",null,B.Ik,null,null,null)
+B.IU=new A.oR("\u06a9\u06cc\u0627 \u0622\u067e \u0645\u062c\u06be\u06d2 \u062c\u0627\u0646\u062a\u06d2 \u06c1\u06cc\u06ba \ud83c\udf2a\ufe0f",null,B.Ik,null,null,null)
 B.v2=new A.qJ(B.E,null,null,B.IU,null)
 B.v3=new A.qL(null,null,null,null,null,null,null,null,null)
 B.v4=new A.qM(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
@@ -58526,7 +58526,7 @@ p=q.gDH(q)
 A.aa8()
 return new A.EM(1/q.gDH(q),1/(0.05*p))})
 s($,"apw","acr",()=>A.abY(0.78)/A.abY(0.9))
-r($,"ast","yJ",()=>new A.a3G(A.aP(["I like baby pink Color",!1,"I am funny",!0,"I can easily make friends",!1,"u my friend",!0,"I am The best, hena",!0,"I can eat fries everydayy",!0,"I had tried dumplings",!1,"I can make the best tea",!0],t.N,t.y)))})();(function nativeSupport(){!function(){var s=function(a){var m={}
+r($,"ast","yJ",()=>new A.a3G(A.aP(["I like baby pink Color",!1,"I am funny",!0,"I can make friends easily",!1,"u my friend",!0,"I am The best, hena",!0,"I can eat fries everydayy",!0,"I had tried dumplings",!1,"I can make the best tea",!0,"I am the moon light to the moon",!0],t.N,t.y)))})();(function nativeSupport(){!function(){var s=function(a){var m={}
 m[a]=1
 return Object.keys(hunkHelpers.convertToFastObject(m))[0]}
 v.getIsolateTag=function(a){return s("___dart_"+a+v.isolateTag)}
