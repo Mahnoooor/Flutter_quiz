@@ -58526,7 +58526,7 @@ p=q.gDH(q)
 A.aa8()
 return new A.EM(1/q.gDH(q),1/(0.05*p))})
 s($,"apw","acr",()=>A.abY(0.78)/A.abY(0.9))
-r($,"ast","yJ",()=>new A.a3G(A.aP(["I like baby pink Color",!1,"I am funny",!0,"I can make friends easily",!1,"u my friend",!0,"I am The best, hena",!0,"I can eat fries everydayy",!0,"I had tried dumplings",!1,"I can make the best tea",!0,"I am the moon light to the moon",!0,"Allah had put a tank full of shyness in me\ud83d\udc7e",!0],t.N,t.y)))})();(function nativeSupport(){!function(){var s=function(a){var m={}
+r($,"ast","yJ",()=>new A.a3G(A.aP(["I like baby pink Color",!1,"I am funny",!0,"I can make friends easily",!1,"u my friend",!0,"I am The best, hena",!0,"Allah had put a tank full of shyness in me\ud83d\udc7e",!0,"I can eat fries everydayy",!0,"I had tried dumplings",!1,"I can make the best tea",!0,"I am the moon light to the moon",!0,"Is this the last question",!0],t.N,t.y)))})();(function nativeSupport(){!function(){var s=function(a){var m={}
 m[a]=1
 return Object.keys(hunkHelpers.convertToFastObject(m))[0]}
 v.getIsolateTag=function(a){return s("___dart_"+a+v.isolateTag)}
